@@ -1,0 +1,17 @@
+h1 {
+  color: #F56945
+}
+h2 {
+  color: #832BCD
+}
+ol {
+  list-style-type: upper-roman;
+  text-decoration: underline
+}
+.magenta {
+  color: #AA3AAA;
+  text-decoration: underline;
+}
+ul {
+  list-style-type: square;
+}
